@@ -1,4 +1,3 @@
 in todays session i learnt lot of things 
 like VCS,git,github
 git and github are the some 
-github contain git inside it
