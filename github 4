@@ -1,5 +1,4 @@
 print(python for everybody)
-print(number of bits to be displayed)
 if(0==0)
   { 
     print("true")
